@@ -83,6 +83,7 @@ public class WebElementOperation {
 		System.out.println("Exit the testing");
 		selenium.stop();
 		selenium.close();
+		System.out.println("add this to test git");
 	}
 
 }
